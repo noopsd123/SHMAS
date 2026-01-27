@@ -15,7 +15,7 @@ In the fast-paced world of healthcare, even the smallest delays in hospital oper
 - *Priority Scoring Formula*: A dynamic scoring system prioritizes patients in waiting queues based on vital signs, age, and symptoms, ensuring critical cases are addressed first.
 
 ### The Five Agents:
-1. *Mental Health Analyzer Agent*: Analyzes patient data to assess mental health conditions, prioritizing cases based on urgency.
+1. *Mental Health Analyzer Agent*: Analyzes patient data that identifies signs of anxiety, depression, psychosis and assigns Assigns mental health urgency scores.
 2. *Triage Agent*: Helps prioritize patient cases based on severity, ensuring critical patients are directed to the appropriate department.
 3. *Bed Manager Agent*: Manages available hospital beds, allocating them based on patient severity and available resources.
 4. *Doctor Scheduler Agent*: Automates the scheduling of doctors based on patient needs and doctor availability.
